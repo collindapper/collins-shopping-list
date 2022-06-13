@@ -1,0 +1,20 @@
+body {
+  background-image: url(./Grocery\ Image.jpg);
+  font-family: 'Lora', serif;
+}
+
+.container {
+  background-color: white;
+}
+
+h1 {
+  font-size: 50px;
+  color: green;
+}
+input {
+  width: 100px;
+}
+
+.addItemInput {
+  width: 150px;
+}
